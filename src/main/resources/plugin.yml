@@ -1,0 +1,9 @@
+name: Rustcord-Pl
+version: 1.0
+main: sh.joey.rustcord.RustcordPlugin
+description: rustcord plugin
+authors: [Joey]
+commands:
+  server:
+    description: send to a server
+    usage: "/server [target]"
